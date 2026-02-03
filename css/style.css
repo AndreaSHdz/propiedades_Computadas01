@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(135deg, #fde2e4, #f8edeb);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.titulo {
+    color: #fa0276;
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.cantidad {
+    width: 70px;
+    text-align: center;
+}
+
+.formulario {
+    background-color: #fff0f3;
+}
+
+.btn-rosa {
+    background-color: #ff758f;
+    color: white;
+    border: none;
+}
+
+.btn-rosa:hover {
+    background-color: #ff4d6d;
+}
+
+.resumen {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 15px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
